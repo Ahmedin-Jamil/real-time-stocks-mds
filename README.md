@@ -1,7 +1,6 @@
 # 📈 Real-Time Stock Market Data Pipeline
 
-<img width="5889" height="3500" alt="487893098-6b49eb4d-4bf7-473d-9281-50c20b241760" src="https://github.com/user-attachments/assets/ecdd574d-9070-432c-90ca-147075d874ef" />
-
+<img width="1459" height="876" alt="Architectural Diagram" src="https://github.com/user-attachments/assets/dfac3417-3fb5-4408-9817-15eb346b73c2" />
 
 ## 🚀 Business Context & Strategy
 In today’s fast-paced financial markets, stale data leads to poor decision-making. The goal of this project was to engineer a **highly reliable, low-latency data pipeline** that captures live stock market movements and transforms them into actionable business intelligence. 
