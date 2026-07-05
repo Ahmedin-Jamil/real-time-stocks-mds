@@ -42,4 +42,3 @@ By leveraging the **Modern Data Stack**, this architecture ensures that Data Sci
 5. Run `dbt run` to build the Silver and Gold models in Snowflake.
 
 ---
-*Note: This project was executed following the architectural framework designed by [Data with Jay](https://github.com/Jay61616/real-time-stocks-mds). It served as a practical implementation to master streaming data and modern cloud data warehouse technologies.*
