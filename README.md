@@ -26,6 +26,12 @@ By leveraging the **Modern Data Stack**, this architecture ensures that Data Sci
   * *Gold Layer:* Modeled into analytics-ready tables for Candlestick charts, KPIs, and Tree Maps.
 * **Led** the final visualization phase by connecting Power BI directly to the Snowflake Gold layer via Direct Query, delivering real-time dashboards for business stakeholders.
 
+## 📊 Final Deliverables
+
+🔥 **Live Interactive Dashboard:** [Click here to view the real-time Power BI Dashboard!](https://app.powerbi.com/view?r=eyJrIjoiOGU3Zjg5OTQtZTA2Yi00ODg4LTlhM2YtOWYwNzA3MzRlZDI5IiwidCI6ImE1MTVlN2M0LThjZjctNGY5Ny1iMjNiLTk2NDkxNjQ1ZjdmMCIsImMiOjEwfQ%3D%3D)
+
+*(Note: If you still want to add a static screenshot directly to the page later, you can upload the image file to GitHub and link it here: `![Power BI Dashboard](link_to_your_screenshot.png)`)*
+
 ## ⚙️ How to Run Locally
 1. Clone this repository.
 2. Spin up the infrastructure using Docker: `docker-compose up -d`
