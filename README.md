@@ -1,6 +1,7 @@
 # 📈 Real-Time Stock Market Data Pipeline
 
-*(Drag and drop your Architecture Diagram screenshot here when editing on GitHub)*
+<img width="5889" height="3500" alt="487893098-6b49eb4d-4bf7-473d-9281-50c20b241760" src="https://github.com/user-attachments/assets/ecdd574d-9070-432c-90ca-147075d874ef" />
+
 
 ## 🚀 Business Context & Strategy
 In today’s fast-paced financial markets, stale data leads to poor decision-making. The goal of this project was to engineer a **highly reliable, low-latency data pipeline** that captures live stock market movements and transforms them into actionable business intelligence. 
@@ -30,7 +31,8 @@ By leveraging the **Modern Data Stack**, this architecture ensures that Data Sci
 
 🔥 **Live Interactive Dashboard:** [Click here to view the real-time Power BI Dashboard!](https://app.powerbi.com/view?r=eyJrIjoiOGU3Zjg5OTQtZTA2Yi00ODg4LTlhM2YtOWYwNzA3MzRlZDI5IiwidCI6ImE1MTVlN2M0LThjZjctNGY5Ny1iMjNiLTk2NDkxNjQ1ZjdmMCIsImMiOjEwfQ%3D%3D)
 
-*(Drag and drop a screenshot of your Power BI dashboard here when editing on GitHub)*
+<img width="1725" height="940" alt="Screenshot 2026-07-05 115428" src="https://github.com/user-attachments/assets/ec68cd6a-600c-4c04-a6aa-716b648c8c74" />
+
 
 ## ⚙️ How to Run Locally
 1. Clone this repository.
